@@ -10,6 +10,6 @@ scalaVersion := "$scalaVersion$"
 
 seq(Revolver.settings: _*)
 
-libraryDependencies += "org.hyperscala" %% "hyperscala-ui" % "0.9.2"
+libraryDependencies += "org.hyperscala" %% "hyperscala-ui" % "0.9.3"
 
-libraryDependencies += "com.outr.net" %% "outrnet-jetty" % "1.1.2"
+libraryDependencies += "com.outr.net" %% "outrnet-jetty" % "1.1.3"
